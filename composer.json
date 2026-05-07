@@ -1,0 +1,27 @@
+{
+  "name": "thuonglethi346-hub/suno_v6_com",
+  "description": "Suno V6 AI music generator metadata package.",
+  "type": "library",
+  "license": "MIT",
+  "homepage": "https://www.suno-v6.com",
+  "keywords": [
+    "suno-v6",
+    "suno-v6",
+    "ai",
+    "music",
+    "generator"
+  ],
+  "autoload": {
+    "psr-4": {
+      "SunoV6Com\\": "src/"
+    }
+  },
+  "support": {
+    "source": "https://github.com/thuonglethi346-hub/suno_v6_com",
+    "issues": "https://www.suno-v6.com",
+    "docs": "https://www.suno-v6.com"
+  },
+  "require": {
+    "php": ">=8.0"
+  }
+}
